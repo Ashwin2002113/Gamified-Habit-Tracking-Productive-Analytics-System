@@ -29,6 +29,11 @@ Tracking habits manually does not provide visibility into consistency, missed ha
 - Power BI
 - DAX
 - Data Modeling
+- ***Tech Stack:**
+• Google Sheets (Data collection & validation)
+• Power BI (Data modeling, DAX, visualization)
+• DAX (KPIs, habit score, completion metrics)
+• GitHub (Version control & documentation)
 
 * **Dashboard Preview**
 <img width="1136" height="596" alt="Image" src="https://github.com/user-attachments/assets/a1b07e45-25e1-461d-be64-943888b4d3a3" />
@@ -41,3 +46,9 @@ The dashboard helps analyze habit consistency, identify weak areas, and improve 
 
 **Pipeline Of This Project Gamified-Habit-Tracking-Productive-Analytics-System**
 Built an end-to-end habit tracking and productivity analytics system using Google Sheets and Power BI. Designed a normalized data model, created DAX measures for completion rate, missed habits, and habit score, and delivered an interactive dashboard with KPIs, category insights, and trend analysis.
+
+* **How To Use**
+
+1. Enter daily habit completion in Google Sheets
+2. Refresh Power BI dataset
+3. Dashboard updates automatically with KPIs and insights
