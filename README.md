@@ -33,6 +33,8 @@ Tracking habits manually does not provide visibility into consistency, missed ha
 * **Dashboard Preview**
 <img width="1136" height="596" alt="Image" src="https://github.com/user-attachments/assets/a1b07e45-25e1-461d-be64-943888b4d3a3" />
 <img width="511" height="381" alt="Image" src="https://github.com/user-attachments/assets/d334d824-863e-40ee-ad15-23037140dc09" />
+<img width="1165" height="626" alt="image" src="https://github.com/user-attachments/assets/e01b41be-0cd4-4efe-bb21-408c7cc80d63" />
+
 
 * **Outcome Of This Project**
 The dashboard helps analyze habit consistency, identify weak areas, and improve productivity through data-driven insights.
